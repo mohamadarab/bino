@@ -1,0 +1,61 @@
+name = Drupalthemes
+description = drupalthemes - Responsive HTML5 OnePage Drupal Theme (tel:09384363798)
+core = 7.x
+version = 1.1
+
+
+regions[menu] = Menu
+regions[content] = Content
+regions[slider] = Slider
+regions[slogan] = Slogan
+regions[about] = About
+regions[about-img] = About-img
+regions[service] = Service
+regions[service-img] = Service-img
+regions[portfolio] = Portfolio
+regions[portfolio-complated] = Portfolio-complated
+regions[comment-img] = Comment-img
+regions[team] = Team
+regions[client] = Client
+regions[blog] = Blog
+regions[blog-bottom] = Blog-bottom
+regions[contact-us] = Contact-us
+regions[contact-form] = Contact-form
+
+
+
+
+
+
+stylesheets[all][] = css/css/iconfont.css
+stylesheets[all][] = css/font-awesome.min.css
+stylesheets[all][] = css/jquery.fancybox.css
+stylesheets[all][] = css/bootstrap.css
+stylesheets[all][] = css/bootstrap.min.css
+stylesheets[all][] = css/magnific-popup.css
+stylesheets[all][] = css/plugins.css
+stylesheets[all][] = css/style.css
+stylesheets[all][] = css/responsive.css
+
+
+
+
+
+scripts[] = 'js/vendor/modernizr-2.8.3-respond-1.4.2.min.js'
+scripts[] = 'js/vendor/jquery-1.11.2.min.js'
+scripts[] = 'js/vendor/bootstrap.min.js'
+scripts[] = 'js/jquery.magnific-popup.js'
+scripts[] = 'js/jquery.mixitup.min.js'
+scripts[] = 'js/jquery.easing.1.3.js'
+scripts[] = 'js/jquery.masonry.min.js'
+scripts[] = 'js/plugins.js'
+scripts[] = 'js/main.js'
+
+
+
+
+
+; Information added by drupalthemes.ir packaging script on 2016-06-12
+version = "7.52"
+project = "drupal"
+datestamp = "09384363798"
